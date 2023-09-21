@@ -9,5 +9,5 @@ def Tables(number):
 
 
 
-number = int(input('Enter a number '))
+number = int(input('Plz enter a number '))
 Tables(number)
